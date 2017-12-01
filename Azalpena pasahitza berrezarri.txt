@@ -1,0 +1,7 @@
+Pasahitza berrezarri:
+	-Eskatu erabiltzailari bete korreoa, izen abizena eta goizizena
+		- Datu horiek erabili ditugu zeren izan liteke erabiltzaile batek oraindik ez egin izana galderarik
+		   eta kasu honetan erabiltzaile horri galdera bat eskatzea ezinezkoa izango litzateke.
+	-Bilatu gure datu basean ea datu horiekin norbait existitzen den
+	-Baiezkoa izatekotan-> Pasahitzaren formatua errespetatzen badu (nusoapPass), aldatu
+	-Ezezkoa izatekotan edo pasahitzaren formatua ez errespetatzekotan->Ez utzi aldatzen
